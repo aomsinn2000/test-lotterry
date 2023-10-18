@@ -174,4 +174,8 @@ body {
   .container {
     width: 90%;
   }
+  .result {
+    height: auto;
+    width: auto;
+}
 }
